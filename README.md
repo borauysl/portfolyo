@@ -1,0 +1,1 @@
+Bu, becerileri, eğitimi ve deneyimleri sergilemek için oluşturulmuş kişisel portfolyo web sitesidir. İçeriğinde ana sayfa, hakkımda bölümü, eğitim geçmişi, deneyimler, beceriler ve iletişim formu bulunmaktadır.
